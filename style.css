@@ -1,0 +1,25 @@
+body{
+color: black;
+background:linear-gradient(salmon 20%,pink 30%);
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects,#rusult_object_name,#rusult_object_accuracy{
+    color: slateblue;
+}
+
+#camera{
+    border: 2px dashed lightcoral;
+    width: 350px;
+    height: 300px;
+}
+
+#result{
+    border: 2px double rgb(236, 54, 21);
+    width: 350px;
+    height: 300px;
+}
